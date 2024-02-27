@@ -1,11 +1,11 @@
 {
-    "name": "os_web",
-    "short_name": "os_web",
+    "name": "OS INDIA",
+    "short_name": "OS INDIA",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "OS INDIA ENTERPRISE",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
